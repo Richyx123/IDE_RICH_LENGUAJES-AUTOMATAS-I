@@ -2,7 +2,14 @@
 
 IDE web que incluye un analizador léxico, sintáctico y una máquina de Turing.
 
-## Características
+## 👨‍🎓 Datos del Estudiante
+
+- **Nombre:** Richard De Jesus Espinoza Francisco
+- **Materia:** Lenguajes Automatas I
+- **Profesor:** Kevin David Molina Gomez
+- **Institución:** Tecnologico Nacional De Mexico Campus Minititlán
+
+- ## Características
 
 - Analizador léxico para tokens
 - Analizador sintáctico
@@ -78,13 +85,6 @@ IDE_RICH/
 - Muestra el proceso paso a paso
 - Validación de entrada
 - Visualización del estado de la cinta
-
-## 👨‍🎓 Datos del Estudiante
-
-- **Nombre:** Richard De Jesus Espinoza Francisco
-- **Materia:** Lenguajes Automatas I
-- **Profesor:** Kevin David Molina Gomez
-- **Institución:** Tecnologico Nacional De Mexico Campus Minititlán
 
 ## ⚠️ Manejo de Errores
 
