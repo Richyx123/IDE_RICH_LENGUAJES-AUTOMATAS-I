@@ -3,7 +3,7 @@
 IDE web que incluye un analizador léxico, sintáctico y una máquina de Turing.
 
 ## 👨‍🎓 Datos del Estudiante
-(templates/imagenes/icon.jpg)
+![Datos del Estudiante](templates/imagenes/icon.jpg)
 
 - **Nombre:** Richard De Jesus Espinoza Francisco
 - **Materia:** Lenguajes Automatas I
