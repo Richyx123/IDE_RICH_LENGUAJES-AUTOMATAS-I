@@ -106,4 +106,4 @@ Este proyecto está bajo la Licencia MIT.
 
 ---
 
-⌨️ con ❤️ por Richard De Jesus 
+Realizado con dedicación por Richard De Jesus 
