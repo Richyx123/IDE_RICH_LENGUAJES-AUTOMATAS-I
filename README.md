@@ -122,7 +122,7 @@ http://127.0.0.1:5000
 #### Ejemplo de Análisis Léxico
 <img src="templates/imagenes/Img_lex.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
 
-<img src="templates/imagenes/Img_lex_2".png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
+<img src="templates/imagenes/Img_lex_2.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
 
 *Ejemplo de análisis léxico mostrando la identificación de tokens y sus propiedades*
 
@@ -144,7 +144,7 @@ http://127.0.0.1:5000
 #### Ejemplo de Análisis Sintáctico
 <img src="templates/imagenes/Img_sin.png" alt="Análisis Sintáctico" width="200" height="250" style="display: block; margin: auto;">
 
-<img src="templates/imagenes/Img_sin_2".png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
+<img src="templates/imagenes/Img_sin_2.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
 
 *Ejemplo de análisis sintáctico mostrando la validación de una asignación simple*
 
@@ -167,7 +167,7 @@ http://127.0.0.1:5000
 #### Ejemplo de Máquina de Turing
 <img src="templates/imagenes/Img_tur.png" alt="Máquina de Turing" width="200" height="250" style="display: block; margin: auto;">
 
-<img src="templates/imagenes/Img_tur_2".png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
+<img src="templates/imagenes/Img_tur_2.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
 
 *Ejemplo de procesamiento de una cadena binaria mostrando el análisis y resultado*
 
