@@ -114,9 +114,12 @@ http://127.0.0.1:5000
   - Total de tokens y líneas analizadas
   - Tokens válidos e inválidos
   - Mensajes de error descriptivos
+    
+#### Visualización del RICH_IDE
+<img src="templates/imagenes/Icon 1.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
 
 #### Ejemplo de Análisis Léxico
-<img src="templates/imagenes/analisis_lexico.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
+<img src="templates/imagenes/Img_lex.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
 
 *Ejemplo de análisis léxico mostrando la identificación de tokens y sus propiedades*
 
