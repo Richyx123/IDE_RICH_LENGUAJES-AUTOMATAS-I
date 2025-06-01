@@ -157,7 +157,6 @@ resultado = 5
 
 # Código Inválido
 if x = 5          # Error: estructura de control no permitida
-variable  = 10;   # Error: punto y coma no necesario
 resultado: = 20   # Error: dos puntos no permitidos
 = 30              # Error: falta identificador
 x = = 40          # Error: operador duplicado
