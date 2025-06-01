@@ -116,7 +116,7 @@ http://127.0.0.1:5000
   - Mensajes de error descriptivos
 
 #### Ejemplo de Análisis Léxico
-<img src="templates/imagenes/imagenes/analisis_lexico.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
+<img src="templates/imagenes/analisis_lexico.png" alt="Análisis Léxico" width="200" height="250" style="display: block; margin: auto;">
 
 *Ejemplo de análisis léxico mostrando la identificación de tokens y sus propiedades*
 
@@ -136,7 +136,7 @@ http://127.0.0.1:5000
   - Lista detallada de errores
 
 #### Ejemplo de Análisis Sintáctico
-<img src="templates/imagenes/imagenes/analisis_sintactico.png" alt="Análisis Sintáctico" width="200" height="250" style="display: block; margin: auto;">
+<img src="templates/imagenes/analisis_sintactico.png" alt="Análisis Sintáctico" width="200" height="250" style="display: block; margin: auto;">
 
 *Ejemplo de análisis sintáctico mostrando la validación de una asignación simple*
 
@@ -157,7 +157,7 @@ http://127.0.0.1:5000
   - Emojis para indicar estados (✅, ❌)
 
 #### Ejemplo de Máquina de Turing
-<img src="templates/imagenes/imagenes/maquina_turing.png" alt="Máquina de Turing" width="200" height="250" style="display: block; margin: auto;">
+<img src="templates/imagenes/maquina_turing.png" alt="Máquina de Turing" width="200" height="250" style="display: block; margin: auto;">
 
 *Ejemplo de procesamiento de una cadena binaria mostrando el análisis y resultado*
 
