@@ -116,7 +116,8 @@ http://127.0.0.1:5000
   - Mensajes de error descriptivos
     
 #### Visualización del RICH_IDE
-<img src="templates/imagenes/Icon 1.png" alt="Análisis Léxico" width="1000" height="500" style="display: block; margin: auto;">
+<img src="templates/imagenes/Icon 1.png" alt="Aplicación WEB" width="1000" height="500" style="display: block; margin: auto;">
+<img src="templates/imagenes/Icon 2.png" alt="Aplicación WEB 2" width="1000" height="500" style="display: block; margin: auto;">
 
 
 #### Ejemplo de Análisis Léxico
