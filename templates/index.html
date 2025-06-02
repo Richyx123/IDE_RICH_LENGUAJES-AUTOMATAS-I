@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RICHI'S IDE - Analizador Léxico, Sintáctico y Máquina de Turing</title>
+    <link rel="stylesheet" href="/static/estilo.css">
+    <!-- Font Awesome para iconos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- CodeMirror -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/monokai.min.css">
+</head>
+<body>
+    <div class="page-wrapper">
+        <div class="container">
+            <header class="header">
+                <div class="header-content">
+                    <h1><i class="fas fa-code"></i> RICHI'S IDE</h1>
+                    <div class="header-decoration"></div>
+                </div>
+                <img src="/static/imagenes/compu.png" alt="Computadora teórica" class="logo" onerror="console.log('Error al cargar la imagen');">
+            </header>
+
+            <main class="main-content">
+                <div class="editor-section">
+                    <div class="section-title">
+                        <i class="fas fa-keyboard"></i>
+                        <h2>Editor de Código</h2>
+                    </div>
+                    <p class="editor-description">Escribe tu código a continuación y selecciona una acción:</p>
+                    <div class="editor-container">
+                        <textarea id="codigo" placeholder="Escribe tu código aquí..."></textarea>
+                        <div class="editor-decoration left"></div>
+                        <div class="editor-decoration right"></div>
+                    </div>
+                </div>
+
+                <div class="actions-section">
+                    <div class="button-group">
+                        <button id="btn-lexico" data-action="analizar-lexico">
+                            <i class="fas fa-search"></i>
+                            Análisis Léxico
+                        </button>
+                        <button id="btn-sintactico" data-action="analizar-sintactico">
+                            <i class="fas fa-project-diagram"></i>
+                            Análisis Sintáctico
+                        </button>
+                        <button id="btn-turing" data-action="turing">
+                            <i class="fas fa-cogs"></i>
+                            Ejecutar Máquina de Turing
+                        </button>
+                    </div>
+                </div>
+
+                <div class="resultado-section">
+                    <div class="section-title">
+                        <i class="fas fa-terminal"></i>
+                        <h2>Resultado</h2>
+                    </div>
+                    <div class="resultado-container">
+                        <pre id="resultado">Aquí aparecerá el resultado...</pre>
+                    </div>
+                </div>
+            </main>
+
+            <footer class="footer">
+                <p>Desarrollado con <i class="fas fa-heart"></i> por RICHI</p>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/python/python.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/edit/closebrackets.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/edit/matchbrackets.min.js"></script>
+    <script src="/static/logica.js"></script>
+</body>
+</html>
